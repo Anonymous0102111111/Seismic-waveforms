@@ -13,7 +13,4 @@ For any additional clarification, please let us know.
 
 # Additional Appendix
 
-This repository contains additional appendix algorithm requested by the reviewers. The algorithm contains our motivation and clarification of diffusion process in HEGGS.
-
-## Algorithm File Directory
-- additional_Algorithm.pdf
+This repository contains additional appendix (additional_Appendix.pdf) requested by the reviewers. 
